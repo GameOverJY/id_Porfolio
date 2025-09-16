@@ -2,12 +2,12 @@
 
 ## 📌 Portfólio  
 
-**🎓 Aluno**: [Seu Nome]  
-**📧 E-mail**: [Seu Email Acadêmico]  
+**🎓 Aluno**: Junhao Ye  
+**📧 E-mail**: a2023124954@isec.pt  
 **📖 Disciplina**: ID - Integração de Dados  
-**👨‍🏫 Docente**: [Nome do Professor]  
-**🏫 Escola**: [Nome da Instituição]  
-**📚 Curso**: [Nome do Curso]  
+**👨‍🏫 Docente**: Prof.João Leal  
+**🏫 Politécnico**: Isec- Instituto Superior de Engenharia de Coimbra  
+**📚 Curso**: CTESP TPSI- Tecnologias e Programação de Sistemas de Informação  
 
 ---
 
