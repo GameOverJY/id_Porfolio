@@ -34,22 +34,22 @@ Essa disciplina é essencial para empresas e organizações que dependem de info
 ### 📅 **Lista de Aulas**   
 
 #### 📅 **Setembro 2025**  
-✅ **Aula 1 - [09/09/2025](link_do_arquivo)**  
-✅ **Aula 2 - [16/09/2025](link_do_arquivo)**  
-✅ **Aula 3 - [23/09/2025](link_do_arquivo)**  
-✅ **Aula 4 - [30/09/2025](link_do_arquivo)**  
+✅ **Aula 1 - [09/09/2025](https://github.com/GameOverJY/id_Porfolio/blob/main/aula_1.md)**  
+✅ **Aula 2 - [16/09/2025](https://github.com/GameOverJY/id_Porfolio/blob/main/aula_2.md)**  
+✅ **Aula 3 - [23/09/2025](https://github.com/GameOverJY/id_Porfolio/blob/main/aula_3.md)**  
+✅ **Aula 4 - [30/09/2025](https://github.com/GameOverJY/id_Porfolio/blob/main/aula_4.md)**  
 
 #### 📅 **Outubro 2025**  
-✅ **Aula 5 - [07/10/2025](link_do_arquivo)**  
-✅ **Aula 6 - [14/10/2025](link_do_arquivo)**  
-✅ **Aula 7 - [21/10/2025](link_do_arquivo)**  
-✅ **Aula 8 - [28/10/2025](link_do_arquivo)**  
+✅ **Aula 5 - [07/10/2025](https://github.com/GameOverJY/id_Porfolio/blob/main/aula_5.md)**  
+✅ **Aula 6 - [14/10/2025](https://github.com/GameOverJY/id_Porfolio/blob/main/aula_6.md)**  
+✅ **Aula 7 - [21/10/2025](https://github.com/GameOverJY/id_Porfolio/blob/main/aula_7.md)**  
+✅ **Aula 8 - [28/10/2025](https://github.com/GameOverJY/id_Porfolio/blob/main/aula_8.md)**  
 
 #### 📅 **Novembro 2025**  
-✅ **Aula 9 - [04/11/2025](link_do_arquivo)**  
-✅ **Aula 10 - [11/11/2025](link_do_arquivo)**  
-✅ **Aula 11 - [18/11/2025](link_do_arquivo)**  
-✅ **Aula 12 - [25/11/2025](link_do_arquivo)**  
+✅ **Aula 9 - [04/11/2025](https://github.com/GameOverJY/id_Porfolio/blob/main/aula_9.md)**  
+✅ **Aula 10 - [11/11/2025](https://github.com/GameOverJY/id_Porfolio/blob/main/aula_10.md)**  
+✅ **Aula 11 - [18/11/2025](https://github.com/GameOverJY/id_Porfolio/blob/main/aula_11.md)**  
+✅ **Aula 12 - [25/11/2025](https://github.com/GameOverJY/id_Porfolio/blob/main/aula_12.md)**  
 
 ---
 
