@@ -46,7 +46,3 @@ Foi destacado o uso de **Código (Code-based ETL)** como alternativa ou compleme
 
 * **Linguagem de destaque:** Python.
 * **Vantagens:** Flexibilidade total, bibliotecas poderosas para manipulação de dados (como Pandas) e facilidade de automação.
-
----
-
-> 💡 *"A integração e a interoperabilidade são fundamentais para evitar redundância, inconsistência e perda de informação."*
