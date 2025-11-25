@@ -51,44 +51,6 @@ Essa disciplina é essencial para empresas e organizações que dependem de info
 ✅ **Aula 11 - [18/11/2025](link_do_arquivo)**  
 ✅ **Aula 12 - [25/11/2025](link_do_arquivo)**  
 
-#### 📅 **Dezembro 2025**  
-✅ **Aula 13 - [02/12/2025](link_do_arquivo)**  
-✅ **Aula 14 - [09/12/2025](link_do_arquivo)**  
-✅ **Aula 15 - [16/12/2025](link_do_arquivo)**  
-✅ **Aula 16 - [23/12/2025](link_do_arquivo)**  
-✅ **Aula 17 - [30/12/2025](link_do_arquivo)**  
-
-#### 📅 **Janeiro 2026**  
-✅ **Aula 18 - [06/01/2026](link_do_arquivo)**  
-✅ **Aula 19 - [13/01/2026](link_do_arquivo)**  
-✅ **Aula 20 - [20/01/2026](link_do_arquivo)**  
-✅ **Aula 21 - [27/01/2026](link_do_arquivo)**  
-
-#### 📅 **Fevereiro 2026**  
-✅ **Aula 22 - [03/02/2026](link_do_arquivo)**  
-✅ **Aula 23 - [10/02/2026](link_do_arquivo)**  
-✅ **Aula 24 - [17/02/2026](link_do_arquivo)**  
-✅ **Aula 25 - [24/02/2026](link_do_arquivo)**  
-
-#### 📅 **Março 2026**  
-✅ **Aula 26 - [03/03/2026](link_do_arquivo)**  
-✅ **Aula 27 - [10/03/2026](link_do_arquivo)**  
-✅ **Aula 28 - [17/03/2026](link_do_arquivo)**  
-✅ **Aula 29 - [24/03/2026](link_do_arquivo)**  
-✅ **Aula 30 - [31/03/2026](link_do_arquivo)**  
-
-#### 📅 **Abril 2026**  
-✅ **Aula 32 - [07/04/2026](link_do_arquivo)**  
-✅ **Aula 33 - [14/04/2026](link_do_arquivo)**  
-✅ **Aula 34 - [21/04/2026](link_do_arquivo)**  
-✅ **Aula 35 - [28/04/2026](link_do_arquivo)**  
-
-#### 📅 **Maio 2026**  
-✅ **Aula 36 - [05/05/2026](link_do_arquivo)**  
-✅ **Aula 37 - [12/05/2026](link_do_arquivo)**  
-✅ **Aula 38 - [19/05/2026](link_do_arquivo)**  
-✅ **Aula 39 - [26/05/2026](link_do_arquivo)**  
-
 ---
 
 ## 📌 Conclusão  
