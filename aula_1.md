@@ -1,9 +1,9 @@
 # 📘 Integração de Dados - Aula 01
 
-**Data:** 09/09/2025
-**Instituição:** ISEC - Instituto Superior de Engenharia de Coimbra
-**Curso:** CTeSP em Tecnologias e Programação de Sistemas de Informação
-**Professor:** João Leal
+**Data:** 09/09/2025  
+**Instituição:** ISEC - Instituto Superior de Engenharia de Coimbra  
+**Curso:** CTeSP em Tecnologias e Programação de Sistemas de Informação  
+**Professor:** João Leal  
 
 ---
 
@@ -53,3 +53,4 @@ Plataformas recomendadas para a construção do Portfólio Digital:
 * Wix / WordPress
 * Behance
 * Padlet
+
