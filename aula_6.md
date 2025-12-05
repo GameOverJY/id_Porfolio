@@ -1,9 +1,9 @@
 # 📘 Qualidade e Consistência de Dados
 
-**Data:** 14/10/2025
-**Instituição:** ISEC - Instituto Superior de Engenharia de Coimbra
-**Curso:** CTeSP em Tecnologias e Programação de Sistemas de Informação
-**Professor:** João Leal
+**Data:** 14/10/2025  
+**Instituição:** ISEC - Instituto Superior de Engenharia de Coimbra  
+**Curso:** CTeSP em Tecnologias e Programação de Sistemas de Informação  
+**Professor:** João Leal  
 
 ---
 
@@ -117,3 +117,4 @@ clientes_limpos = pd.read_csv("clientes_final.csv")
 vendas_validas = vendas[vendas["id_cliente"].isin(clientes_limpos["id_cliente"])]
 
 print(f"Total de vendas válidas: {vendas_validas['valor'].sum()}")
+
