@@ -1,9 +1,9 @@
 # 📘 Ferramentas de Integração e Ecossistema ETL
 
-**Data:** 28/10/2025
-**Instituição:** ISEC - Instituto Superior de Engenharia de Coimbra
-**Curso:** CTeSP em Tecnologias e Programação de Sistemas de Informação
-**Professor:** João Leal
+**Data:** 28/10/2025  
+**Instituição:** ISEC - Instituto Superior de Engenharia de Coimbra  
+**Curso:** CTeSP em Tecnologias e Programação de Sistemas de Informação  
+**Professor:** João Leal  
 
 ---
 
@@ -119,3 +119,4 @@ def extract_transform_exchange_rate(api_url):
 url = "[https://api.exchangerate-api.com/v4/latest/USD](https://api.exchangerate-api.com/v4/latest/USD)"
 df_resultado = extract_transform_exchange_rate(url)
 print(df_resultado)
+
