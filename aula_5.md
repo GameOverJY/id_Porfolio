@@ -1,9 +1,9 @@
 # 📘 Revisão de Conteúdos e Fundamentos de ETL
 
-**Data:** 07/10/2025
-**Instituição:** ISEC - Instituto Superior de Engenharia de Coimbra
-**Curso:** CTeSP em Tecnologias e Programação de Sistemas de Informação
-**Professor:** João Leal
+**Data:** 07/10/2025  
+**Instituição:** ISEC - Instituto Superior de Engenharia de Coimbra  
+**Curso:** CTeSP em Tecnologias e Programação de Sistemas de Informação  
+**Professor:** João Leal  
 
 ---
 
@@ -91,3 +91,4 @@ Permitem criar fluxos "arrastar e soltar":
 Oferece flexibilidade máxima e é padrão em engenharia de dados.
 * **Pandas:** Biblioteca essencial para manipulação de DataFrames (limpeza, joins).
 * **SQLAlchemy:** Facilita a conexão com bases de dados SQL.
+
