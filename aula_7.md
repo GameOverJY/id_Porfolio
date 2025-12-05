@@ -1,9 +1,9 @@
 # 📘 Revisão Global: Fundamentos, ETL e Qualidade de Dados
 
-**Data:** 21/10/2025
-**Instituição:** ISEC - Instituto Superior de Engenharia de Coimbra
-**Curso:** CTeSP em Tecnologias e Programação de Sistemas de Informação
-**Professor:** João Leal
+**Data:** 21/10/2025  
+**Instituição:** ISEC - Instituto Superior de Engenharia de Coimbra  
+**Curso:** CTeSP em Tecnologias e Programação de Sistemas de Informação  
+**Professor:** João Leal  
 
 ---
 
@@ -104,3 +104,4 @@ df_clientes.to_csv("clientes_clean.csv", index=False)
 vendas_validas.to_csv("vendas_clean.csv", index=False)
 
 print(f"Processo concluído. Total de vendas válidas: {vendas_validas['valor'].sum()}€")
+
