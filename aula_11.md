@@ -1,6 +1,6 @@
 # 🚀 Aula 11: Revisão Global e Lançamento do Projeto Final
 
-**Data:** 19/12/2025  
+**Data:** 18/11/2025  
 **Instituição:** ISEC - Instituto Superior de Engenharia de Coimbra  
 **Curso:** CTeSP em Tecnologias e Programação de Sistemas de Informação  
 **Professor:** João Leal  
@@ -46,3 +46,4 @@ O trabalho está dividido em cinco fases que acompanham os módulos da disciplin
 ---
 
 > 🚧 **Estado do Projeto:** Trabalho atualmente em desenvolvimento.
+
