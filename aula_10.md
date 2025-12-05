@@ -1,9 +1,9 @@
 # 🏁 Aula 10: Revisão Geral e Integração em Contextos Avançados
 
-**Data:** 12/12/2025
-**Instituição:** ISEC - Instituto Superior de Engenharia de Coimbra
-**Curso:** CTeSP em Tecnologias e Programação de Sistemas de Informação
-**Professor:** João Leal
+**Data:** 12/12/2025  
+**Instituição:** ISEC - Instituto Superior de Engenharia de Coimbra  
+**Curso:** CTeSP em Tecnologias e Programação de Sistemas de Informação  
+**Professor:** João Leal  
 
 ---
 
@@ -88,3 +88,4 @@ if response.status_code == 200:
 
 else:
     print(f"Erro ao aceder à API: {response.status_code}")
+
