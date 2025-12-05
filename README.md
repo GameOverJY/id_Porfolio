@@ -51,6 +51,11 @@ Essa disciplina é essencial para empresas e organizações que dependem de info
 ✅ **Aula 11 - [18/11/2025](https://github.com/GameOverJY/id_Porfolio/blob/main/aula_11.md)**  
 ✅ **Aula 12 - [25/11/2025](https://github.com/GameOverJY/id_Porfolio/blob/main/aula_12.md)**  
 
+#### 📅 **Dezembro 2025**  
+✅ **Aula 13 - [02/12/2025](https://github.com/GameOverJY/id_Porfolio/blob/main/aula_13.md)**  
+✅ **Aula 14 - [09/12/2025](https://github.com/GameOverJY/id_Porfolio/blob/main/aula_14.md)**  
+✅ **Aula 15 - [16/12/2025](https://github.com/GameOverJY/id_Porfolio/blob/main/aula_15.md)**  
+
 ---
 
 ## 📌 Conclusão  
